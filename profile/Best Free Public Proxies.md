@@ -40,7 +40,7 @@ Use the provided IP address and port to set up the proxy in your browser, applic
 
 ### Step 4: Test the Connection
 
-After setting up the proxy, it is recommended to verify its functionality by visiting [WhatIsMyIP.com](https://www.whatismyip.com/) or a similar service to ensure that your IP address has changed and the proxy is working correctly.
+After setting up the proxy, it is recommended to verify its functionality by visiting https://fineproxy.org/ip-address/  or a similar service to ensure that your IP address has changed and the proxy is working correctly.
 
 ## Advantages of Using FineProxy
 
